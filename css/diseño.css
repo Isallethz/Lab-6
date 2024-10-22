@@ -1,7 +1,9 @@
  .header{
+    height: 100%;
+    background-color: #68b8d8;
     text-align: center;
-    text-shadow: 10px;
     font-family: 'Times New Roman', Times, serif;
+    padding: 25px;
 }
 
 .navbar{
